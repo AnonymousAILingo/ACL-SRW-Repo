@@ -24,7 +24,7 @@ This file details the computing environment used to run the scripts and analyses
 ## Runtime Notes
 
 - **Total transcription time**: 80 hours
-- **spaCy tagging time**: X
+- **spaCy tagging time**: 2 hours
 - **Average analysis runtime**: 4 min per 1 hour of transcription
 
 ## Additional Notes
