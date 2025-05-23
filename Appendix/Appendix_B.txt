@@ -1,4 +1,5 @@
-term
+List of target words occuring in our dataset:
+
 groundbreaking
 crucial
 realm
